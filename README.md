@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rasha Matar
-- 👀 I’m interested in learning , develop , build exicted project and challenges
+- 👋 Hi, I’m Rasha Matar, I'm a Software Enginnering
+- 👀 I'm intersted in learning new technolgy a,clean code, refactoring, debugging , and solve problems.
 - 🌱 I’m currently learning data structure , Algorthim ,system design and beginner paython & Flask.
 - 💞️ I’m looking to collaborate on projects that assist people to make their life more easy , improve and assist the people a round the world 
 - 📫 You can 
